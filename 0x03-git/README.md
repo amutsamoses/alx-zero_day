@@ -1,1 +1,1 @@
-My first readme.md
+It was awesome to navigate through git 
